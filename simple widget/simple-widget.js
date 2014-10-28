@@ -1,5 +1,5 @@
 
-var $container = '#NamefoWidget';
+var $container = '#NameofWidget';
 
 var $Css = '<link rel="stylesheet" href="http://matts-web-dev.github.io/simple%20widget/widget.css" type="text/css" />';
 
